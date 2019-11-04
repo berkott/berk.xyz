@@ -1,5 +1,4 @@
-
-html {
+ html {
   position: relative;
   min-height: 100%;
 }
@@ -11,7 +10,7 @@ body {
   background-color: #ffffff;
   /* -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; */
-  margin-bottom:70px;
+  margin-bottom: 70px;
 }
 
 .footer {
